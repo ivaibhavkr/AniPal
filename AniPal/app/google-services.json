@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1073027901842",
+    "firebase_url": "https://anipal-22.firebaseio.com",
+    "project_id": "anipal-22",
+    "storage_bucket": "anipal-22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073027901842:android:0dccc39d5b514eb2",
+        "android_client_info": {
+          "package_name": "com.fnatic.android.anipal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073027901842-klsb4qj0gggiku30i4oenuu0p85otksc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fnatic.android.anipal",
+            "certificate_hash": "cd4d524fa771f9fab8ce5d45f6efa4dca8344f65"
+          }
+        },
+        {
+          "client_id": "1073027901842-0cqikolu95n6cj2s07qmgnfpg0gj93bf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPmrlf8dX4yiXihqJHj_b41-s73c4B6eI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073027901842-0cqikolu95n6cj2s07qmgnfpg0gj93bf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
